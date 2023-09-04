@@ -1,0 +1,36 @@
+*{margin: 0;}
+
+
+h1{color: rgb(255, 238, 0);}
+
+body {
+	background-color: black;
+}
+
+.cor1 {
+	background-color: rgb(255, 238, 0);
+}
+
+.efeito:hover{
+	cursor:pointer;
+	transition-duration: 1s;
+	transform: scale(1.1 , 1.1);
+}
+
+h3 {
+	color: rgb(230, 99, 12);
+
+}
+
+h4 {
+	color: rgb(231, 137, 74);
+    font-size: small;
+}
+
+h2 { color: rgb(255, 217, 0);}
+
+img div {
+
+  height: 561;
+  width: 250;
+}
